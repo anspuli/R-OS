@@ -6,7 +6,7 @@ password = input("Enter new password for" + username + ":")
 print("new password is: " + password)
 
 # list
-data = [username, password]
+data = ((username, password))
 print(data)
 print("Your length of user and pswd is : ")
 print(len(data))
