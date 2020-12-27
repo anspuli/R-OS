@@ -14,8 +14,8 @@ I static OS using "R" and many other languages
 ```                                                        
 
 
-                      ^ 
-                      | LOGO for _R-OS_
+          ^ 
+  #       | LOGO for _R-OS_
 
 
 
